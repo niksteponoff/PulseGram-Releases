@@ -1,0 +1,9 @@
+{
+  "application_id": "channel-creator",
+  "channel": "channel-creator",
+  "version": "0.1.1",
+  "sha256": "42280555fbff405ce98b0f104ed39e5a3c90800f913401628b2da357ea5b84ad",
+  "size": 57061444,
+  "source_sha": "779bc397f5f1fbc6ecf68cfb6aab42e1dd858132",
+  "download_url": "https://github.com/niksteponoff/PulseGram-Releases/releases/download/channel-creator-v0.1.1/ChannelCreator.exe"
+}
