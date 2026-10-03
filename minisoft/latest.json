@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "sha256": "cb22557f3849440107f70e5f47a4047927d11c31a5143faf52959f7eb5a0b84a",
+  "size": 57051601,
+  "source_sha": "6ed3130d7b28623949ef596391f22bdc6f4e2cb7",
+  "channel": "minisoft",
+  "application_id": "minisoft",
+  "download_url": "https://github.com/niksteponoff/PulseGram-Releases/releases/download/minisoft-v1.0.0/MiniSoft.exe"
+}
