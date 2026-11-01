@@ -1,10 +1,10 @@
 {
   "channel": "apk",
-  "real_apk_version_code": 102009,
-  "version_code": 102009,
-  "version_name": "1.2.0",
-  "apk_url": "https://github.com/niksteponoff/PulseGram-Releases/releases/download/apk-v1.2.0/PulseGram-1.2.0-102009-APK-arm64-v8a.apk",
-  "size": 77996625,
-  "sha256": "346cbfc32f258b1dfbe868e31eef811bd7f81f2fd70f37b8c81b897d9f11674d",
-  "changelog": "Добавлен тумблер Автоперевод PulseGram в настройках языка"
+  "real_apk_version_code": 102019,
+  "version_code": 102019,
+  "version_name": "1.2.1",
+  "apk_url": "https://github.com/niksteponoff/PulseGram-Releases/releases/download/apk-v1.2.1/PulseGram-1.2.1-102019-APK-arm64-v8a.apk",
+  "size": 77996632,
+  "sha256": "9142a3cab86f646b49eb5ae09dea41c2798633588efa6e66eb178f0f4b4760d0",
+  "changelog": "Автоперевод PulseGram теперь по умолчанию выключен"
 }
